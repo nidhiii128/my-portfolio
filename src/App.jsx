@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import TailwindCSS from './pages/TailwindCSS';
 import Home from './pages/Home';
-import Resume from './pages/resume';
+import Resume from './pages/Resume';
 import Projects from './pages/Projects';
 import Certifications from './pages/Certifications';
 import Contact from './pages/Contact';
